@@ -26,8 +26,8 @@
 
 ### Contato:
 <div>
-<a href = "mailto:narcizo84895720@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<a href = "https://api.whatsapp.com/send/?phone=5551984895720&text=Ola+alysson+vim+do%20seu+Github&type=phone_number&app_absent=0"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 
